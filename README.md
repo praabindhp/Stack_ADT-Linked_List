@@ -37,3 +37,5 @@ We can use the following steps to display the elements (nodes) of a stack...
     Step 3 - If it is Not Empty, then define a Node pointer 'temp' and initialize with top.
     Step 4 - Display 'temp → data --->' and move it to the next node. Repeat the same until temp reaches to the first node in the stack. (temp → next != NULL).
     Step 5 - Finally! Display 'temp → data ---> NULL'.
+
+The GCC File Also Have Been Pushed.

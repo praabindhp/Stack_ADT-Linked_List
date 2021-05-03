@@ -7,7 +7,8 @@ The major problem with the stack implemented using an array is, it works only fo
 
 In linked list implementation of a stack, every new element is inserted as 'top' element. That means every newly inserted element is pointed by 'top'. Whenever we want to remove an element from the stack, simply remove the node which is pointed by 'top' by moving 'top' to its previous node in the list. The next field of the first element must be always NULL.
 
-Stack Operations Using Linked List
+Stack Operations Using Linked List:
+
 To implement a stack using a linked list, we need to set the following things before implementing actual operations.
 
     Step 1 - Include all the header files which are used in the program. And declare all the user defined functions.
